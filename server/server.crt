@@ -1,0 +1,59 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=JS, L=ZJ, O=JSDX, OU=JSJ, CN=ca
+        Validity
+            Not Before: May 18 06:43:21 2018 GMT
+            Not After : May 18 06:43:21 2019 GMT
+        Subject: C=CN, ST=JS, O=JSDX, OU=JSJ, CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b1:9c:43:ac:81:f9:e5:ca:c3:ee:63:09:40:37:
+                    9b:6e:af:c9:82:f9:07:1f:d5:0c:d8:c3:5a:40:74:
+                    69:e8:4e:06:6f:61:6d:19:a7:c4:53:24:f4:84:92:
+                    12:2e:be:1d:50:18:25:63:f5:b5:f0:2f:a6:8c:22:
+                    ac:18:60:5e:d4:87:79:68:51:ff:e6:bd:8d:5a:f2:
+                    29:f2:f3:e5:a3:eb:2d:62:1b:9b:5b:c8:da:84:1a:
+                    5e:43:96:1c:d8:1b:7d:2d:15:b5:9d:f5:bd:50:df:
+                    09:50:e9:0b:5a:cb:6d:16:d3:69:a1:cc:1e:ee:ca:
+                    d6:f3:6f:bf:f0:4d:73:2e:bd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                7D:C9:AC:B6:CF:93:23:D9:17:02:F2:0D:20:82:FF:4D:1C:36:C8:FF
+            X509v3 Authority Key Identifier: 
+                keyid:AA:B3:8B:1C:28:D6:FE:3D:1E:97:18:CF:5E:FF:77:E2:A5:25:A5:4A
+
+    Signature Algorithm: sha256WithRSAEncryption
+         87:29:d9:4a:40:c4:34:92:76:a9:d0:b6:52:61:a0:be:11:df:
+         e6:dd:b0:8f:88:04:d1:2f:41:b6:4e:71:12:5c:4b:97:0f:04:
+         5b:97:e2:95:45:29:bc:29:4f:84:e5:49:7e:dc:70:13:e4:05:
+         70:9c:2d:69:56:b5:47:10:6c:a8:ca:61:7a:33:99:2f:aa:ba:
+         48:f4:cc:63:dd:df:25:2e:a0:79:90:0a:7c:b3:aa:7b:12:38:
+         3b:87:89:4f:8f:bc:bb:4d:6d:39:ff:b6:f3:fd:8f:16:ad:e0:
+         a0:18:5a:af:26:a6:ac:4e:04:c7:da:50:52:8e:3a:8a:88:8f:
+         d7:ef
+-----BEGIN CERTIFICATE-----
+MIICijCCAfOgAwIBAgIBATANBgkqhkiG9w0BAQsFADBRMQswCQYDVQQGEwJDTjEL
+MAkGA1UECAwCSlMxCzAJBgNVBAcMAlpKMQ0wCwYDVQQKDARKU0RYMQwwCgYDVQQL
+DANKU0oxCzAJBgNVBAMMAmNhMB4XDTE4MDUxODA2NDMyMVoXDTE5MDUxODA2NDMy
+MVowSDELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkpTMQ0wCwYDVQQKDARKU0RYMQww
+CgYDVQQLDANKU0oxDzANBgNVBAMMBnNlcnZlcjCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAsZxDrIH55crD7mMJQDebbq/JgvkHH9UM2MNaQHRp6E4Gb2FtGafE
+UyT0hJISLr4dUBglY/W18C+mjCKsGGBe1Id5aFH/5r2NWvIp8vPlo+stYhubW8ja
+hBpeQ5Yc2Bt9LRW1nfW9UN8JUOkLWsttFtNpocwe7srW82+/8E1zLr0CAwEAAaN7
+MHkwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQg
+Q2VydGlmaWNhdGUwHQYDVR0OBBYEFH3JrLbPkyPZFwLyDSCC/00cNsj/MB8GA1Ud
+IwQYMBaAFKqzixwo1v49HpcYz17/d+KlJaVKMA0GCSqGSIb3DQEBCwUAA4GBAIcp
+2UpAxDSSdqnQtlJhoL4R3+bdsI+IBNEvQbZOcRJcS5cPBFuX4pVFKbwpT4TlSX7c
+cBPkBXCcLWlWtUcQbKjKYXozmS+qukj0zGPd3yUuoHmQCnyzqnsSODuHiU+PvLtN
+bTn/tvP9jxat4KAYWq8mpqxOBMfaUFKOOoqIj9fv
+-----END CERTIFICATE-----
